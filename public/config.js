@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "726d351a73f97041b5428f7e8f6a7920",
   "VITE_APP_NAME": "HOODBTC",
   "VITE_APP_DESCRIPTION": "Trade HOODBTC is a fast, secure, and privacy-focused cryptocurrency trading platform designed for modern traders.",
   "VITE_HAS_PRIMARY_LOGO": "true",
