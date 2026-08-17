@@ -36,11 +36,11 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "",
   "VITE_AVAILABLE_LANGUAGES": "en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "6",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"Default\",\"mode\":\"dark\"},{\"id\":\"8f5fad9f-639e-4464-aee1-a304dadb5c1c\",\"displayName\":\"HOODBTC DARK\",\"mode\":\"dark\",\"isDefault\":true}]",
   "VITE_ANALYTICS_SCRIPT": "{}",
-  "VITE_ANALYTICS_CONFIG": "",
+  "VITE_ANALYTICS_CONFIG": "{\"version\":1,\"provider\":\"ga4\",\"measurementId\":\"G-DFLDRWWTDR\"}",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
