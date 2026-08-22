@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Swap,Rewards",
-  "VITE_CUSTOM_MENUS": "HOODBTC, https://hoodbtc.com/; Follow us on X, https://x.com/peterhazimcrypt?s=11; Snapchat, https://snapchat.com/t/YgNZK3L4; Tiktok, https://www.tiktok.com/@hoodbtc666k?_r=1&_t=ZS-995KbIDt1ay; Community, https://chat.whatsapp.com/KtzK1qxeDrk7YnXHWYdhpj?s=cl&p=i&mlu=4",
+  "VITE_CUSTOM_MENUS": "HOODBTC, https://hoodbtc.com/; Follow us on X, https://x.com/peterhazimcrypt?s=11; Snapchat, https://snapchat.com/t/YgNZK3L4; Tiktok, https://www.tiktok.com/@hoodbtc666k?_r=1&_t=ZS-995KbIDt1ay; Community, https://t.me/hoodbtc2; WhatsApp Community, https://chat.whatsapp.com/KtzK1qxeDrk7YnXHWYdhpj?s=cl&p=i&mlu=4",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
